@@ -1,0 +1,99 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #434344;
+  color: #dadada;
+  padding: 10px;
+}
+
+.iconContainer {
+  display: flex;
+}
+
+.logo {
+  height: 25px;
+  border-radius: 100%;
+}
+
+.navContainer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.subNav {
+  text-align: center;
+}
+
+.sectionOne {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.sectionOneImg {
+  width: 100%;
+}
+
+.sectionTwo {
+  text-align: center;
+}
+
+.sectionTwoImg {
+  width: 100%;
+}
+
+.sectionThree {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.sectionThreeImg {
+  width: 100%;
+}
+
+.sectionFour {
+  display: flex;
+  margin: 15px 0;
+}
+
+.sectionFourImg {
+  width: 100%;
+  display: flex;
+}
+
+.sectionLight {
+  text-align: center;
+  background-color: white;
+  color: black;
+  width: 50%;
+  margin-right: 10px;
+}
+
+.sectionDark {
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 50%;
+  margin-left: 10px;
+}
+
+.right {
+  margin-left: 0;
+}
+
+.sectionFive {
+  display: flex;
+  margin: 15px 0;
+}
+
+.sectionSix {
+  display: flex;
+  margin: 15px 0;
+}
